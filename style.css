@@ -1,10 +1,16 @@
-body{
+body {
     font-size: 14pt;
 }
-#main{
+
+#main {
     display: flex;
 }
 
-#inputs{
+#inputs {
     margin-right: 30px;
+}
+
+#eventList{
+    display: flex;
+    flex-direction: column;
 }
