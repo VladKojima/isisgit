@@ -13,4 +13,5 @@ body {
 #eventList{
     display: flex;
     flex-direction: column;
+    background: crimson;
 }
