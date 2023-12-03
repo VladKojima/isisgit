@@ -1,0 +1,4 @@
+function getObject(){
+    let obj = {};
+    
+}
