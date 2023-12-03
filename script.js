@@ -1,4 +1,9 @@
 function getObject(){
-    let obj = {};
-    
+    let obj = {
+        info: []
+    };
+
+    return obj;
 }
+
+console.log(getObject());
