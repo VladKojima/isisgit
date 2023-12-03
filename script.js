@@ -1,9 +1,12 @@
 function getObject(){
     let obj = {
-        info: []
+        info: [1,2,3],
+        property2: {
+
+        }
     };
 
     return obj;
 }
 
-console.log(getObject());
+console.log(getObject().info[1]);
