@@ -12,7 +12,8 @@ function getObject(){
             info: [12,3,21,2]
         },
 
-        vals: [1,2,3,4,5,6,7,8,-1,2,3]
+        vals: [1,2,3,4,5,6,7,8,-1,2,3],
+        strings: ["1","2","3"]
     };
 
     return obj;
